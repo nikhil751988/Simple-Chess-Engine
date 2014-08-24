@@ -1,6 +1,5 @@
 ############################
 # Nikhil Bharadwaj Ramesha #
-# nxr122630                #
 # Parameter File           #
 ############################
 
