@@ -1,0 +1,27 @@
+############################
+# Nikhil Bharadwaj Ramesha #
+# nxr122630                #
+# Parameter File           #
+############################
+
+[CHESS ENGINE PARAMETERS]
+#Depth of the Algorithm search
+DEPTH=4
+
+#Set Branch factor to select only fewer moves. Default 1000 indicates all moves observed
+BRANCH_FACTOR=1000
+
+#Set if sorting of move orders is needed
+MOVE_ORDER=true
+
+#Set to use all of the evaluation functions
+USE_ALL_EVAL=true
+
+#Set to use only Basic evaluation Functions. Make sure that USE_ALL_EVAL is set false
+USE_BASIC_EVAL=false
+
+#Set to use only Attack functions along with/without basic evaluation functions
+USE_ATTACK=false
+
+#Set to use only Positional evaluation functions along with/without basic evaluation functions
+USE_POSITIONAL=false
