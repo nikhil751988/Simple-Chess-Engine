@@ -1,6 +1,5 @@
-#################################
-###### PROJECT DESCRIPTION ######
-#################################
+PROJECT DESCRIPTION
+======================
 
 This is a simple Data driven application to demonstrate the working of a simple chess engine.
 
@@ -15,10 +14,9 @@ and also specify what heuristics to be used by the chess engine in order to make
 
 The above experiment is carried out to observe the decision making capablity of the Chess engine.
 
-############################################################################################
 
 PROJECT RUN INSTRUCTIONS
-------------------------
+============================
 
 Method 1:
 
